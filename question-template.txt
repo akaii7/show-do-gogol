@@ -1,0 +1,12 @@
+Template para adição de perguntas no jogo
+
+{
+  question: "question",
+  answers: [
+    { option: "option", correct: true/false },
+    { option: "option", correct: true/false },
+    { option: "option", correct: true/false },
+    { option: "option", correct: true/false },
+  ],
+  level: "easy/medium/hard",
+},
