@@ -224,7 +224,7 @@ export default [
       level: "medium",
     },
     {
-      question: "Quanto equivale 1 gogol?",
+      question: "Quanto equivale 1 googol?",
       answers: [
         { option: "10^10", correct: false },
         { option: "10^100", correct: true },
@@ -234,7 +234,7 @@ export default [
       level: "medium",
     },
     {
-      question: "Quanto equivale 1 gogolplex?",
+      question: "Quanto equivale 1 googolplex?",
       answers: [
         { option: "10^10", correct: false },
         { option: "10^100", correct: false },
